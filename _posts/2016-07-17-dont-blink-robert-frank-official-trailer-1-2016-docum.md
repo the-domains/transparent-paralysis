@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-17T00:52:30.749Z'
+datePublished: '2016-07-17T14:31:50.638Z'
 isBasedOnUrl: 'https://www.youtube.com/watch?v=3yZAzXzS47E'
 keywords:
   - trailer
@@ -17,7 +17,7 @@ author:
   - name: Movieclips Film Festivals & Indie Films
     url: 'https://www.youtube.com/user/FilmFestivalVideos'
     avatar: {}
-dateModified: '2016-07-17T00:52:30.409Z'
+dateModified: '2016-07-17T14:31:50.262Z'
 title: Don't Blink - Robert Frank Official Trailer 1 (2016) - Documentary HD
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=3yZAzXzS47E&feature=applinks'
@@ -68,7 +68,7 @@ description: >-
   The Beats (PULLY MY DAISY) and the Rolling Stones (COCKSUCKER BLUES).
 inLanguage: en
 sourcePath: _posts/2016-07-17-dont-blink-robert-frank-official-trailer-1-2016-docum.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
